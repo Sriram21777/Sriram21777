@@ -126,7 +126,7 @@ I'm a master's student at IIIT Lucknow, specializing in Data Science. Passionate
 <!-- Add LeetCode streak badge -->
 <div>
   <p align="center">
-    <img src="https://leetcode-stats.vercel.app/api?username=MCS23019_IITL&theme=dark" alt="LeetCode Streak" />
+    <img src="https://leetcode-stats.vercel.app/api?username=MCS23019_IIITL&theme=dark" alt="LeetCode Streak" />
   </p>
 </div>
 
