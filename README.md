@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌟 Hey, It's me... Ram! 🌟
+#  Hey... <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> It's me... Ram!, happy to see you:)
 [//]: # (<h2>🌟 Hey, It's me... Ram! <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Data%20Science%20Master's%20Student;LLM%20Enthusiast;Problem%20Solver;Creative%20Coder)](https://git.io/typing-svg)
@@ -126,7 +126,7 @@ I'm a master's student at IIIT Lucknow, specializing in Data Science. Passionate
 <!-- Add LeetCode streak badge -->
 <div>
   <p align="center">
-    <img src="https://leetcode-stats.vercel.app/api?username=MCS23019_IIITL&theme=dark" alt="LeetCode Streak" />
+    <img src="https://leetcard.jacoblin.cool/MCS23019_IIITL?theme=dark" alt="LeetCode Streak" />
   </p>
 </div>
 
