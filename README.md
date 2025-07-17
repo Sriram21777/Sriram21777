@@ -3,7 +3,7 @@
 # 🌟 Hey, It's me... Ram! 🌟
 [//]: # (<h2>🌟 Hey, It's me... Ram! <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Data Science+Master's+Student;LLM+Enthusiast;Problem+Solver;Creative+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Data%20Science%20Master's%20Student;LLM%20Enthusiast;Problem%20Solver;Creative%20Coder)](https://git.io/typing-svg)
 
 <img src="./meow_wave_peak.png" height="60"/>
 
