@@ -157,5 +157,5 @@ I'm a master's student at IIIT Lucknow, specializing in Data Science. Passionate
 </div>
 
 <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/Sriram21777/Sriram21777/blob/output/github-snake-dark.svg" alt="snake"/>
 </p>
